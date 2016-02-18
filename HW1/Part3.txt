@@ -1,0 +1,22 @@
+Jongyeon Kim
+jkim989
+
+1) 
+ a) 1b
+ b) 01
+
+2)
+ a) 00
+ b) 00
+
+3)
+ Register: 55
+ Output: 01
+
+4) this wire carries an error value when a gate cannot determine right output.
+   it happens when there is no input value or two components send diffrent values to wire.
+
+5) this wire is carrying one bit calue. however the value is carrying is not known.
+ 
+
+6) True
